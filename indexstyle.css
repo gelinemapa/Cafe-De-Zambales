@@ -1,0 +1,59 @@
+body  {
+  background-image: url("empty-wood-table-blur-cafe-coffee-shop-background-top-152533401.jpg");
+  background-size:100%;
+  font-size: x-large;
+  font-style: inherit;
+ 
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(97, 76, 5);
+  border-style: solid;
+  border-color: rgba(63, 52, 4, 0.801);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-shadow: 2px 4px black;
+  margin-left: 200px;
+  
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: rgba(75, 56, 5, 0.712);
+}
+  
+img {
+  background-color: rgba(240, 248, 255, 0);
+}
+
+h1{
+  color: burlywood;
+  text-shadow:3px 2px rgb(19, 18, 18);
+  
+}
+
+
+p{
+  background-color:rgb(221, 186, 117);
+  border-style: solid;
+  border-color: rgba(63, 52, 4, 0.801);
+  border-radius: 6%;
+  margin-top: 100px;
+}
+
+
+
+
